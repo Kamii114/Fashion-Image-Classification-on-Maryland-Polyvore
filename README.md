@@ -1,4 +1,4 @@
-# Fashion Image Classification on Maryland Polyvore
+# Fashion Image Classification on Maryland Polyvore 
 
 ## Authors
 - Kamand Kalashi
