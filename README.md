@@ -90,7 +90,6 @@ This project demonstrates the effectiveness of autoencoders in extracting meanin
 ## Requirements
 To run this project, ensure you have the following libraries installed:
 - NumPy
-- Pandas
 - OpenCV
 - TensorFlow
 - Keras
