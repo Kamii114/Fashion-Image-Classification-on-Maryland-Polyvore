@@ -5,7 +5,7 @@
 - Sajjad Saed
 
 ## Project Overview
-This repository showcases a comprehensive exploration of fashion image classification using the Maryland Fashion Dataset. The project is structured into four distinct scenarios, each demonstrating different methodologies and techniques for enhancing image classification capabilities in the fashion domain. The Maryland Fashion Dataset can be accessed [here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/cleaned-maryland.md).
+This repository showcases a comprehensive exploration of fashion image classification using the Maryland Fashion Dataset. The project is structured into four distinct scenarios, each demonstrating different methodologies and techniques for enhancing image classification capabilities in the fashion domain. The Maryland Fashion Dataset can be accessed [here](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/cleaned-maryland.md). All training and evaluation processes were conducted on **Google Colab's GPU** environment to accelerate computation.
 
 ---
 
